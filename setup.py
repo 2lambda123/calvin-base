@@ -19,6 +19,11 @@ from setuptools import setup
 
 
 def read_description(fname):
+    """
+    Generate the docstring for the provided function "read_description" in the following format:
+    
+    """
+    
     with open(os.path.join(os.path.dirname(__file__), fname)) as fp:
         return fp.read()
 
