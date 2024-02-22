@@ -10,7 +10,7 @@ netifaces==0.10.4
 pyOpenSSL==17.5.0
 cryptography==42.0.4
 passlib==1.7.0
-PyJWT==1.4.0
+PyJWT==2.4.0
 service-identity==17.0.0
 ndg-httpsclient==0.4.2
 pyasn1>=0.1.9
